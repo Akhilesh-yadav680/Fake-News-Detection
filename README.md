@@ -22,6 +22,10 @@ fake-news-project/
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation (this file)
 ```
+## 📂 Dataset
+
+This project uses the [Fake News Detection dataset from Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset).  
+Please download the `Fake.csv` and `True.csv` files manually or via Kaggle API.
 
 ---
 
