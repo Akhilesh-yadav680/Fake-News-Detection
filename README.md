@@ -16,9 +16,7 @@ This project is a **Fake News Detection Web App** built using **Scikit-learn** a
 ```
 fake-news-project/
 │
-├── app.py                 # Gradio frontend code
-├── Fake.csv               # Fake news
-├── True.csv               # Real news
+├── app.py                 # Gradio frontend code        
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation (this file)
 ```
