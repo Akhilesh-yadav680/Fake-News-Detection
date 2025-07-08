@@ -29,21 +29,10 @@ Please download the `Fake.csv` and `True.csv` files manually or via Kaggle API.
 
 ## 🛠️ Installation
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/fake-news-project.git
-cd fake-news-project
-```
+### 1.Download Dataset 
 
-### 2. Create a Virtual Environment (Recommended)
 
-Using Conda:
-```bash
-conda create -n fakenews-env python=3.10 numpy=1.24.3 -y
-conda activate fakenews-env
-```
-
-### 3. Install Required Libraries
+### 2. Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
