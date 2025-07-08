@@ -59,14 +59,6 @@ You will get a local and a public **Gradio link**. Open it in your browser to te
 
 ---
 
-## 🧠 How It Works
-
-- `vectorizer.pkl`: Transforms input text using `TfidfVectorizer`.
-- `model.pkl`: Predicts the label (Real or Fake) using a trained ML model.
-- Gradio interface shows prediction result as ✅ Real News or ❌ Fake News.
-
----
-
 ## 📸 Example
 
 > **Input:**
