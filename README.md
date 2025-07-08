@@ -96,7 +96,7 @@ pip install -r requirements.txt
 
 ## 📬 Contact
 
-Made with ❤️ by **Akhilesh**
+Made  by **Akhilesh**
 
 Feel free to connect on [GitHub](https://github.com/your-username) or raise an issue if you have questions!
 
