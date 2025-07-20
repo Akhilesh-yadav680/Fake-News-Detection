@@ -1,5 +1,42 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
 venv/
+ENV/
+env/
+.venv/
+
+# Environment and config files
 .env
+.env.*
+
+# Log files
 *.log
+
+# Dataset & model files
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.pkl
+*.joblib
+*.h5
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (if using)
+.vscode/
+
+# Model output or temp folders (optional)
+models/
+output/
+tmp/
