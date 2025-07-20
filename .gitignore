@@ -33,10 +33,10 @@ env/
 .DS_Store
 Thumbs.db
 
-# VSCode settings (if using)
+# VSCode settings 
 .vscode/
 
-# Model output or temp folders (optional)
+# Model output or temp folders 
 models/
 output/
 tmp/
