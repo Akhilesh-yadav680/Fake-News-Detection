@@ -58,13 +58,3 @@ def predict_news(news_text):
     pred = model.predict(vec)[0]
     return "✅ Real News" if pred == 1 else "❌ Fake News"
 
-# Gradio UI
-iface = gr.Interface(
-    fn=predict_news,
-    inputs=gr.Textbox(lines=10, placeholder="Paste a news article here..."),
-    outputs="text",
-    title="📰 Fake News Detector",
-    description="Enter news text to detect if it's Real or Fake.",
-)
-
-iface.launch(share=True)
